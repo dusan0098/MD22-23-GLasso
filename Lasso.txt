@@ -1,0 +1,13 @@
+1.Add MV Gaussian and Derivation - DONE
+Explain why we penalise
+2.Turn Ws to Sigmas, Turn Theta in Mixed model to something else (Omega) - DONE
+3. Variable order and Thickness in graph - DONE
+4. Varying Lambda - at which point does it start to get rid of existing edges - DONE, ADD TO SLIDES
+5. PC vs Glasso - Get PC same to GLasso in sparsity - ADD INTERSECT TRUE WITH PC/GLASSO
+6. Wrap up slide 
+
+AFTER PRESENTATION
+PATO
+7. Use MGMFit if R code doesn't work
+8. Gibbs sampling (with burnin fase) for GLasso - Ground truth
+
