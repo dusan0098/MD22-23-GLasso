@@ -1,4 +1,10 @@
-#packages for working with graphs and sampling gaussian
+#synthetic data experiments for validating
+#Friedmans glasso package 
+
+#1. Methods for constructing Covariance matrix
+#2. Sampling methods
+#3. Attempt at recovery of the full sparsity structure
+
 install.packages("glasso")
 install.packages("gRbase")
 install.packages("mvtnorm")
@@ -40,6 +46,7 @@ create_dense_matrix <- function(dimension){
   return(solve(mat))
 }
 
+#Creates a sample for the dense/sparse scenario
 create_gaussian_sample <- function (sample_size,dimension, sparse=TRUE){
   if(sparse){
     mat <-create_sparse_matrix(dimension)

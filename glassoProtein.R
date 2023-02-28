@@ -1,3 +1,12 @@
+#Contains data and visualisations used in the implementation section
+#of the Final Report
+
+#1.Graphical Lasso
+#2.PC algorithm
+#3.Visualisations and comparisons
+#4.Data - protein cell signaling
+
+
 #packages for reading the data and visualisation
 install.packages("readxl")
 install.packages("glasso")

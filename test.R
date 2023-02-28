@@ -1,3 +1,4 @@
+#Testing pcalg and visualisation package
 if (!require("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
 BiocManager::install()

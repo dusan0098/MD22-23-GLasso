@@ -1,3 +1,6 @@
+#Attempt at recovering the data sampled from a mixed model
+#Not used in final report
+
 install.packages("mgm")
 #install.packages("htmltools")
 #install.packages("xfun")
