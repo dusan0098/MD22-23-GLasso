@@ -12,4 +12,5 @@ Dusan Urosevic
 - test.R and sample_mixed_model.R - not used for the final report. The first is just a test of visualisation packages, the second was an attempt at recovering the mixed model using the MGM package
 
 # Installation
-The R files can be run as is in R studio. Each file starts with installations of the necessary packages. **Note** - when constructing the dataframes we assume that the folder structure is unchanged (all data files are in the dataGLasso or data folder).
+The R files can be run as is in R studio. Each file starts with installations of the necessary packages. <br />
+**Note** - when constructing the dataframes we assume that the folder structure is unchanged (all data files are in the dataGLasso or data folder).
